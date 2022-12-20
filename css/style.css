@@ -1,0 +1,16 @@
+.wrapper{
+    height: 1000px;
+    width: 100%;
+    border: 20px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrapper__block{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    border: 10px solid brown;
+}
+
